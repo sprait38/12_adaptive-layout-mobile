@@ -1,0 +1,737 @@
+@media (max-width: 1279px) {
+    .container {
+        padding: 0 50px;
+    }
+    .header-menu {
+        display: block;
+    }
+    .header {
+        padding-top: 19px;
+        padding-bottom: 21px;
+    }
+    .header-container {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .header-logo {
+        max-width: 150px;
+        margin-right: 375px;
+    }
+    .header-logo-img {
+        margin-top: 7px;
+        margin-left: 187px;
+    }
+    .header-search {
+        padding-top: 7px;
+        margin-right: 0px;
+    }
+    .header-nav {
+        padding-right: 0;
+        display: none;
+    }
+    .hero-container {
+        margin-left: 0px;
+        margin-top: 41px;
+        background-image: url(../img/hero-pic-1024.jpg);
+        background-repeat: no-repeat;
+        border-radius: 32px;
+        padding: 161px 77px;
+        padding-right: 100px;
+        padding-bottom: 160px;
+        height: 347px;
+        width: 747px;
+    }
+    .hero-title {
+        margin-bottom: 16px;
+        font-size: 60px;
+        line-height: 73px;
+    }
+    .hero-text {
+        margin-bottom: 61px;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: -0.2px;
+    }
+    .btn-hero {
+        padding: 24px 37px;
+        margin-top: -2px;
+    }
+    .rating {
+        margin-top: 115px;
+        margin-left: 343px;
+    }
+    .about-us {
+        padding-top: 36px;
+        padding-bottom: 0px;
+        margin-left: 0px;
+    }
+    .about-title {
+        font-size: 48px;
+        line-height: 59px;
+    }
+    .about-content {
+        max-width: 924px;
+        height: 256px;
+        padding-bottom: 10px;
+    }
+    .about-left {
+        background: url(../img/about-1024.jpg);
+        background-repeat: no-repeat;
+        margin-right: 0;
+        margin-bottom: 33px;
+        width: 100%;
+        height: 640px;
+        border-radius: 32px;
+    }
+    .about-us-center {
+        flex-wrap: wrap;
+    }
+    .about {
+        border-radius: 32px;
+        width: 90%;
+    }
+    .about-text {
+        margin-bottom: 0;
+        font-style: normal;
+        font-weight: 700;
+    }
+    .btn-2 {
+        padding: 17px 36px;
+        font-weight: 700;
+    }
+    .adout-button {
+        margin-left: 197px;
+    }
+    .img-2 {
+        background-position-x: 76px;
+        background-position-y: 64px;
+        width: 557px;
+        height: 167px;
+        margin-top: 0px;
+    }
+    .about-item-small:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .img-3 {
+        background-position-x: 76px;
+        background-position-y: 64px;
+        width: 557px;
+        height: 167px;
+        margin-top: 0px;
+    }
+    .about-h3 {
+        padding-left: 15px;
+        margin-bottom: 11px;
+        line-height: 29px;
+    }
+    .about-text-2 {
+        padding-left: 15px;
+        font-weight: 400;
+    }
+    .how {
+        padding-top: 81px;
+        margin-left: 0px;
+    }
+    .how-title {
+        padding-bottom: 49px;
+    }
+    .how-list {
+        padding-bottom: 53px;
+    }
+    .how-item:not(:last-child) {
+        margin-right: 85px;
+    }
+    .how-contect {
+        width: 437px;
+        height: 576px;
+        padding: 0;
+        margin-bottom: 22px;
+    }
+    .how-life {
+        background: url(../img/How-1024.jpg);
+        background-repeat: no-repeat;
+        background-position: 487px 10px;
+        background-size: 47.2% auto;
+        border-radius: 32px;
+    }
+    .btn-black {
+        margin-left: 0px;
+        padding: 20px 36px;
+    }
+    .faq {
+        padding-top: 19px;
+        padding-bottom: 81px;
+        margin-left: 0px;
+    }
+    .faq__item {
+        width: 100%;
+    }
+    .faq_icon {
+        margin-right: 2px;
+    }
+    .faq-title {
+        margin-bottom: 29px;
+    }
+    .faq__btn__text {
+        max-width: 83%;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .faq__btn svg {
+        margin-right: 3px;
+    }
+    .footer {
+        padding-top: 50px;
+        max-width: 977px;
+    }
+    .foote-container {
+        flex-wrap: nowrap;
+    }
+    .left-footer {
+        margin-right: 0px;
+        margin-left: -47px;
+    }
+    .center-footer {
+        transform: none;
+        margin-right: 0px;
+        padding-top: 2px;
+    }
+    .cb1-text {
+        padding-left: 20px;
+    }
+    .footer-logo {
+        margin-bottom: 21px;
+    }
+    .form-blog {
+        width: 100%;
+    }
+    .form-bootn {
+        flex-wrap: wrap;
+    }
+    .btn {
+        margin-right: 22px;
+        padding: 18px 36px;
+    }
+    .rigth-footer {
+        display: none;
+    }
+    .footer-title {
+        margin-top: 0px;
+        margin-bottom: 25px;
+        font-size: 48px;
+        line-height: 59px;
+    }
+    .input-form {
+        width: 91%;
+    }
+    .input-form-2 {
+        margin-bottom: 29px;
+        height: 119px;
+    }
+    .link-insogram {
+        display: none;
+    }
+}
+
+@media (max-width: 1023px) {
+    .header {
+        padding-top: 5px;
+        padding-bottom: 9px;
+    }
+    .header-logo {
+        width: 150px;
+    }
+    .hero-container {
+        background-image: url(../img/hero-768.jpg);
+        background-repeat: no-repeat;
+        padding: 159px 40px;
+        padding-right: 20px;
+        padding-bottom: 115px;
+        height: 388px;
+        width: 608px;
+        margin-top: 36px;
+        border-radius: 24px;
+    }
+    .btn-hero {
+        padding: 18px 37px;
+        margin-top: 0px;
+    }
+    .hero-title {
+        font-size: 50px;
+        line-height: 61px;
+    }
+    .hero-text {
+        padding-right: 30px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .rating {
+        margin-top: 115px;
+        margin-left: 252px;
+    }
+    .about-title {
+        font-size: 48px;
+        line-height: 59px;
+    }
+    .about-content {
+        font-size: 16px;
+        margin-bottom: 160px;
+    }
+    .about {
+        padding: 34px 37px;
+        border-radius: 24px;
+    }
+    .about-left {
+        background: url(../img/about-768.jpg);
+        background-repeat: no-repeat;
+        height: 650px;
+        margin-top: 12px;
+        border-radius: 24px;
+        margin-bottom: 32px;
+    }
+    .about-text {
+        max-width: 366px;
+    }
+    .about-text-2 {
+        max-width: 450px;
+    }
+    .adout-button {
+        margin-left: 45px;
+    }
+    .btn-2 {
+        padding: 19px 38px;
+    }
+    .img-2 {
+        background-image: url(../img/about-2-768.svg);
+        background-repeat: no-repeat;
+        background-position-x: 39px;
+        background-position-y: 66px;
+        margin-bottom: 32px;
+        border-radius: 24px;
+    }
+    .about-item-small {
+        padding-top: 32px;
+        padding-left: 154px;
+        padding-right: 16px;
+        padding-bottom: 31px;
+        width: 496px;
+        height: 170px;
+    }
+    .about-h3 {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: 700;
+        line-height: 32px;
+        font-size: 24px;
+    }
+    .img-3 {
+        background-image: url(../img/about-3-768.svg);
+        background-repeat: no-repeat;
+        background-position-x: 39px;
+        background-position-y: 68px;
+        margin-bottom: 32px;
+        border-radius: 24px;
+    }
+    .how {
+        padding-top: 50px;
+        padding-bottom: 165px;
+    }
+    .how-title {
+        padding-bottom: 48px;
+    }
+    .how-list {
+        justify-content: space-between;
+        padding-bottom: 50px;
+    }
+    .how-item {
+        padding-right: 0px;
+    }
+    .how-life {
+        padding-top: 319px;
+        width: 668px;
+        height: 284px;
+        background: url(../img/How-768.jpg);
+        background-repeat: no-repeat;
+        border-radius: 24px;
+    }
+    .how-text {
+        max-width: 55%;
+    }
+    .how-title-3 {
+        padding-top: 3px;
+    }
+    .how-contect {
+        width: 667px;
+        height: 352px;
+        font-size: 16px;
+        margin-bottom: 24px;
+    }
+    .how-item-btn {
+        flex-wrap: nowrap;
+    }
+    .btn-how {
+        margin-right: 34px;
+        padding: 19px 38px;
+    }
+    .faq-title {
+        width: 472px;
+        height: 118px;
+        line-height: 59px;
+        font-size: 48px;
+        margin-bottom: 30px;
+    }
+    .faq {
+        margin-top: 50px;
+    }
+    .faq__btn__text {
+        max-width: 86%;
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .faq__list {
+        height: 612px;
+    }
+    .faq__btn {
+        width: 668px;
+    }
+    .footer {
+        margin-top: 31px;
+        padding-left: 0px;
+    }
+    .footer-container {
+        flex-direction: column-reverse;
+    }
+    .left-footer {
+        margin-left: 0px;
+    }
+    .footer-list {
+        display: none;
+    }
+    .center-footer {
+        margin-bottom: 49px;
+    }
+    .footer-logo {
+        margin-bottom: 14px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        padding: 0 15px;
+    }
+    .header-container {
+        justify-content: space-between;
+    }
+    .header {
+        padding-top: 13px;
+        padding-bottom: 13px;
+        border-radius: 0px 0px 16px 16px;
+    }
+    .header-logo-img {
+        margin-top: 4px;
+        margin-left: 63px;
+    }
+    .header-logo {
+        max-width: 110px;
+        margin-right: 125px;
+    }
+    .header-search {
+        padding: 0px;
+        margin-top: -1px;
+    }
+    .hero .container {
+        padding: 0 15px;
+        margin-top: -6px;
+    }
+    .hero-container {
+        border-radius: 16px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 60px 10px;
+        padding-bottom: 9px;
+        height: 239px;
+        width: 270px;
+    }
+    .hero-title {
+        margin-bottom: 7px;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+    }
+    .hero-text {
+        margin-bottom: 33px;
+        padding: 0;
+        font-size: 12px;
+        line-height: 15px;
+        text-align: center;
+    }
+    .btn-hero {
+        padding: 12px 27px;
+        max-width: 162px;
+        max-height: 41px;
+        font-size: 12px;
+        line-height: 15px;
+        border-radius: 8px;
+    }
+    .rating {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .star-vector {
+        width: 10px;
+        height: 10px;
+    }
+    .about-us {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .about-container {
+        width: 290px;
+        height: 1724px;
+        margin-top: 60px;
+    }
+    .about-title {
+        margin-bottom: 20px;
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .about-content {
+        margin-bottom: 14px;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .about-us-center {
+        display: block;
+        margin-top: 9px;
+    }
+    .about-left {
+        margin-top: 420px;
+        padding-top: 209px;
+        height: auto;
+        background-size: 100% 200px;
+        background-position: top;
+        border-radius: 16px;
+    }
+    .about {
+        display: block;
+        background-color: transparent;
+        padding: 0;
+    }
+    .about-text {
+        margin-bottom: 11px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 28px;
+        color: #333;
+        width: 264px;
+    }
+    .btn-2 {
+        padding: 11px 41px;
+        border: 2px solid #FF9900;
+        border-radius: 8px;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        color: #FF9900;
+    }
+    .img-2 {
+        background-image: url(../img/about-2-320.svg);
+        padding: 0;
+        padding-top: 59px;
+        border: none;
+        background-size: 64px 49px;
+        background-position: left top;
+    }
+    .img-3 {
+        background-image: url(../img/about-3-320.svg);
+        padding: 0;
+        padding-top: 64px;
+        border: none;
+        background-size: 64px 49px;
+        background-position: left top;
+    }
+    .about-h3 {
+        margin-bottom: 3px;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        padding-left: 0px;
+        max-width: 290px;
+    }
+    .about-text-2 {
+        max-width: 290px;
+        padding-left: 0px;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .mob-320 {
+        display: none;
+    }
+    .about-item-small:not(:last-child) {
+        margin-bottom: 47px;
+    }
+    .how {
+        margin-top: 11px;
+    }
+    .how-title {
+        padding-bottom: 20px;
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .how-text {
+        padding-top: 2px;
+    }
+    .how-list {
+        padding-bottom: 14px;
+    }
+    .how-item:not(:last-child) {
+        margin: 0;
+    }
+    .how-line {
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .how-life {
+        background-size: 43% 160px;
+        border-radius: 16px;
+        padding-top: 170px;
+    }
+    .how-title-3 {
+        margin-bottom: 8px;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .how-contect {
+        margin-bottom: 24px;
+        font-size: 14px;
+        line-height: 28px;
+        letter-spacing: -0.05px;
+        width: 290px;
+        height: 728px;
+    }
+    .btn-how {
+        margin-right: 10px;
+        padding: 13px 44px;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        border-radius: 8px;
+    }
+    .btn-black {
+        padding: 12px 31px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        border-radius: 8px;
+    }
+    .faq {
+        margin-top: 414px;
+        display: block;
+        padding-top: 24px;
+        padding-bottom: 1px;
+    }
+    .faq-title {
+        width: 236px;
+        font-size: 24px;
+        line-height: 29px;
+        margin-bottom: 17px;
+    }
+    .faq__list {
+        height: 628px;
+        margin-top: -61px;
+    }
+    .faq__btn {
+        width: 290px;
+    }
+    .faq__btn__text {
+        max-width: 84%;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .faq__btn__text:nth-child(-n+2) {
+        padding-bottom: 0px;
+    }
+    .faq_icon {
+        width: 30px;
+        height: 30px;
+        margin-right: 0px;
+    }
+    .faq_icon::before {
+        width: 18px;
+    }
+    .faq_icon::after {
+        height: 18px;
+    }
+    .footer {
+        padding-top: 32px;
+        padding-bottom: 28px;
+        max-width: 320px;
+        margin-top: 48px;
+    }
+    .left-footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-right: 0;
+    }
+    .footer-logo svg {
+        margin-bottom: -16px;
+        max-width: 131px;
+        margin-top: -17px;
+    }
+    .footer-icon {
+        margin-left: 15px;
+    }
+    .footer-link svg {
+        width: 40px;
+        height: 40px;
+    }
+    .footer-link:not(:last-child) {
+        margin-right: 16px;
+    }
+    .center-footer {
+        width: 100%;
+        margin-bottom: 16px;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #595959;
+    }
+    .footer-title {
+        font-size: 24px;
+        line-height: 29px;
+        margin-bottom: 22px;
+    }
+    .input-form {
+        padding: 0 20px;
+        width: 88%;
+    }
+    .input-form-2 {
+        height: 150px;
+        margin-bottom: 21px;
+    }
+    .form-bootn {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .btn-3 {
+        margin-right: -7px;
+        margin-bottom: 14px;
+        padding: 12px 27px;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        border-radius: 8px;
+    }
+    .cb1-text {
+        padding-left: 23px;
+        padding-top: 4px;
+    }
+    .cb1-text::before {
+        left: 4px;
+    }
+}
